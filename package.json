@@ -17,7 +17,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
-    "hubot-trello": "^0.1.1",
+    "hubot-trello": "hubot-scripts/hubot-trello",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
